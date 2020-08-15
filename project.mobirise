@@ -44,7 +44,7 @@
     "sitemapSwitcher": true,
     "siteUrl": "http://anasamilimited.com/",
     "sitemapSwitcherAuto": "on",
-    "favicon": "@PROJECT_PATH@/assets/images/anasamilogo-128x25.png",
+    "favicon": "@PROJECT_PATH@/assets/images/polygonal-ornament-of-small-triangles-in-star-and-hexagon-shapes-pngrepo-com-128x128.png",
     "robotsSwitcher": false,
     "cookiesAlert": false,
     "gdpr": false
